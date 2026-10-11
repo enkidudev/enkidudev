@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 # hey, i'm enkidu
 
