@@ -1,74 +1,95 @@
-# About Me
-
-# hey, i'm enkidu
+# hey, i'm enkidu.
 
 > the wild man learned to enumerate.
 
-security researcher focused on web, network & active directory security.
+Security researcher interested in web, API, network, and Active Directory security.
 
-pjpt certified · cpts in progress · top 2% on tryhackme
+**PJPT Certified · CPTS Passed · Top 2% on TryHackMe**
 
-mostly breaking things, building labs, hunting bugs, and figuring out
-why stuff works the way it does.
+I spend most of my time breaking things, building labs, hunting vulnerabilities, and figuring out why stuff works the way it does.
+
+I believe enumeration is an art form. Some people disagree. Those people probably haven't enumerated enough.
 
 ---
 
 ## security
 
-- web & api security
-- network pentesting
-- active directory / windows security
-- bug bounty & vulnerability research
-- ctf enjoyer
-- homelabs & self-hosted security labs
+My primary areas of interest and hands-on experience:
 
-### active directory
+- **Web & API Security:** Vulnerability discovery, authentication flaws, injection attacks, and application security testing.
+- **Network Security:** Network enumeration, service exploitation, pivoting, and infrastructure assessments.
+- **Active Directory:** Domain enumeration, Kerberos attacks, NTLM relay, privilege escalation, and domain compromise.
+- **Vulnerability Research:** Bug bounty hunting, vulnerability analysis, and understanding exploit mechanics.
+- **Windows Security:** Windows internals, privilege escalation, and post-exploitation.
+- **CTFs & Homelabs:** Building environments, breaking them, and occasionally fixing what I broke.
 
-bloodhound · ad enumeration · kerberoasting · as-rep roasting  
-ntlm relay · pass-the-hash · pass-the-ticket · acl abuse  
-domain compromise · windows internals
+### Active Directory
 
-i've built and maintained 3–4+ of my own ad labs and have hands-on
-experience with the stuff covered throughout the pjpt syllabus.
+BloodHound · LDAP enumeration · Kerberoasting · AS-REP Roasting  
+NTLM relay · Pass-the-Hash · Pass-the-Ticket · ACL abuse  
+DCSync · Domain compromise · Windows internals
+
+I've built and maintained multiple Active Directory labs and spent a considerable amount of time exploring attack paths, privilege escalation techniques, and domain-level exploitation.
+
+---
+
+## things i've built
+
+### [Shredder](https://github.com/enkidudev/shredder)
+
+**Automated reconnaissance and service enumeration.**
+
+A personal security tool developed during my CPTS preparation. Shredder is designed to make reconnaissance faster, more organized, and evidence-driven.
+
+- Fast port discovery using RustScan.
+- Nmap-based service fingerprinting and enumeration.
+- Evidence-based triage with a customizable rulebook.
+- Multiple scanning profiles and organized output.
+- Designed to identify meaningful leads without drowning the operator in scan results.
+
+Because apparently, running Nmap manually wasn't enough.
 
 ---
 
 ## languages
 
-**strong:** c / c++
+| Proficiency | Languages |
+|---|---|
+| **Strong** | C · C++ |
+| **Comfortable** | Python · Bash · SQL |
+| **Currently learning** | Go · JavaScript |
 
-**comfortable:** python · bash · sql
-
-**currently learning:** go · javascript
-
-mostly using c/c++ for dsa, general programming and ctfs.
+I primarily use C and C++ for DSA, general programming, and CTF challenges. Python and Bash are my go-to choices for automation and security tooling.
 
 ---
 
 ## the lore
 
-- top 2% on tryhackme
-- completed rooms/machines ranging from easy to insane
-- pjpt certified
-- currently grinding for cpts
-- active bug bounty hunter
-- real-world vulnerability research
-- multiple self-built ad & security homelabs
-- web, api & network testing
-- probably spending too much time enumerating things
+- Top 2% on TryHackMe.
+- PJPT certified.
+- CPTS passed.
+- Completed machines and challenges ranging from easy to insane.
+- Built and maintained multiple custom Active Directory labs.
+- Active in bug bounty and vulnerability research.
+- Developed personal reconnaissance tooling.
+- Hands-on experience with web, API, network, and Windows security.
+- Probably spending too much time enumerating things.
 
 ---
 
 ## currently
 
-learning more about vuln research, offensive security, exploit
-development and building better security tooling.
+Exploring vulnerability research, offensive security, exploit development, and building better security tools.
 
-if it has an attack surface, i'll probably enumerate it.
+The goal is to keep getting better as an operator and researcher, and eventually build things that other people find genuinely useful.
+
+If it has an attack surface, I'll probably enumerate it.
 
 ---
 
-> still learning. still breaking things.
+> still learning. still breaking things. still enumerating.
+
+---
 
 ## 🌐 Socials
 
@@ -103,4 +124,3 @@ if it has an attack surface, i'll probably enumerate it.
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
