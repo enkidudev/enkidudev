@@ -4,7 +4,7 @@
 
 Security researcher interested in web, API, network, and Active Directory security.
 
-**PJPT Certified · CPTS Passed · Top 2% on TryHackMe**
+**PJPT Certified · CPTS Certified · Top 2% on TryHackMe**
 
 I spend most of my time breaking things, building labs, hunting vulnerabilities, and figuring out why stuff works the way it does.
 
